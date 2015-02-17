@@ -1,7 +1,7 @@
 //
 // OrderQ
 //
-// @license MIT 2015 Dennis de Greef <github.com/dennisdegreef/orderq/LICENSE>
+// @license MIT 2015 Dennis de Greef <github.com/dennisdegreef/orderq/blob/master/LICENSE>
 // 
 
 #include <Adafruit_NeoPixel.h>
